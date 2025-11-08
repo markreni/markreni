@@ -3,7 +3,7 @@
 <p align="center">
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="center">
-- 🌱 I’m currently learning ** React, Flutter, Findy Agency, gRPC, GraphQL, WebAuthn, Web3 **
+- 🌱 I’m currently learning ** React, Laravel **
 <p align="center">
 - 📫 How to reach me **mark.renssi@aalto.fi**
 
