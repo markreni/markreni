@@ -13,13 +13,16 @@
 
 > Began my dev adventure in 2021. Stepped away 2024–2025 for life stuff. Came back hungrier—let's build some things! 🔥
 
+## Future Projects (ping me if interested to collaborate)
+- 🧮 **GLNinja** - An AI powered lightweight app that teaches and checks correct accounting entries based on FAS intended for Finnish sole traders and small-sized firms
+
 ## Current Projects
 
 - 🏀 **[WhereHoops](https://github.com/markreni/where-to-hoop)** - Web service that connects hoopers locally
 
 ## Most Recent Projects
 
-- 🏀 **[NatureDiary](https://github.com/markreni/nature-diary-frontend)** - Web service that allows adding and sharing nature observations
+- 🍃 **[NatureDiary](https://github.com/markreni/nature-diary-frontend)** - Web service that allows adding and sharing nature observations
 
 ## GitHub Activity
 
@@ -40,7 +43,7 @@
 
 ### Philosophy
 
-> I build tools to solve my own problems, then share them with the world. Currently exploring how AI changes everything about software development.
+> I build tools to solve my own problems, then share them with the world. Currently exploring how AI changes everything about software development. Quality over speed. 
 
 <details>
 <summary>Random Facts</summary>
