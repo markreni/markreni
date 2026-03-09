@@ -15,6 +15,7 @@
 
 ## Future Projects (ping me if interested to collaborate)
 - 🧮 **GLNinja** - An AI powered lightweight app that teaches and checks correct accounting entries based on FAS intended for Finnish sole traders and small-sized firms
+- 🗣️ **LinguaGrasp** - A language learning app that works wherever you read. Highlight any foreign text: a news article, a social media post, a recipe, and the app's AI instantly translates it or explains it in your native language.
 
 ## Current Projects
 
