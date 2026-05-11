@@ -44,7 +44,7 @@
 
 ### Philosophy
 
-> I build tools to solve my own problems, then share them with the world. Currently exploring how AI changes everything about software development. Quality over speed. 
+> I build tools to solve my own problems, then share them with the world. Currently exploring how AI changes everything about software development. Build deliberately. Master the fundamentals.
 
 <details>
 <summary>Random Facts</summary>
