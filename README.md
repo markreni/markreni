@@ -19,7 +19,7 @@
 
 ## Current Projects
 
-- 🏀 **[WhereHoops](https://github.com/markreni/where-to-hoop)** - Web service that connects hoopers locally
+- 🏀 **[WhereHoopz](https://wherehoopz.com/)** - Web service that connects hoopers locally
 
 ## Most Recent Projects
 
